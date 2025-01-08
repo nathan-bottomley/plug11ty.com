@@ -1,6 +1,6 @@
 ---
 layout: /plugin.njk
-title: eleventy-plugin-podcaster
+title: Podcaster
 readmeUrl: https://github.com/nathan-bottomley/eleventy-plugin-podcaster/blob/main/README.md
 categories:
   - content
